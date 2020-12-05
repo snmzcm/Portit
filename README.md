@@ -2,7 +2,7 @@
 Easy serial port connection helper for microcontrollers.
 Microcontroller için basitleştirilmiş seri port haberleşmesi konsol uygulaması.
 
-### Kurulum
+### Kurulum / Install
 
 1. Repoyu klonlayın
    ```sh
@@ -12,7 +12,7 @@ Microcontroller için basitleştirilmiş seri port haberleşmesi konsol uygulama
   
   2.Zip olarak indirin
 
-## Kullanım
+## Kullanım / Usage
 
 1. İndirdiğiniz zip dosyasını masaüstüne çıkartın.
 2.ArduinoSketch > bin > Debug içerisinden 'ArduinoSketch.exe' uygulamasını çalıştırın.
@@ -24,7 +24,7 @@ Microcontroller için basitleştirilmiş seri port haberleşmesi konsol uygulama
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## İletişim
+## İletişim / Contact
 
 ``` Alicemsonmez98@gmail.com ```
 
