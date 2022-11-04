@@ -4,11 +4,11 @@ Microcontroller için basitleştirilmiş seri port haberleşmesi konsol uygulama
 
 ### Kurulum / Install
 
-1. Repoyu klonlayın
+1. Repoyu klonlayın / Clone the repor
    ```sh
    git clone https://github.com/snmzcm/Postit.git
    ```
-  YA DA
+  YA DA / OR Download as .zip file
   
   2.Zip olarak indirin
 
@@ -18,6 +18,15 @@ Microcontroller için basitleştirilmiş seri port haberleşmesi konsol uygulama
 2.ArduinoSketch > bin > Debug içerisinden 'ArduinoSketch.exe' uygulamasını çalıştırın.
 
 İsteğe bağlı olarak Visual Studio içerisinde solution dosyası olarak açıp uygulamayı çalıştırabilirsiniz.
+
+-----
+
+1-Unzip it 
+2- Run the 'ArduinoSketch.exe' inside ArduinoSketch > bin > Debug
+
+If you want you can run the project along with Visual Studio 
+
+
 
 
 ## License / Lisans
